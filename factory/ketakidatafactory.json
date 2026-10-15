@@ -1,0 +1,15 @@
+{
+	"name": "ketakidatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fda4b47-b45a-4fff-b7db-7d19461e18c6",
+		"tenantId": "f314ee75-1bd1-4fb9-925c-b86aff0af54c"
+	}
+}
