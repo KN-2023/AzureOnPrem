@@ -1,4 +1,4 @@
-# AzureOnPrem
+# End-to-End Azure Data Engineering Pipeline
 ### Project Architecture
 
 <img width="400" height="200" alt="Corrected Medallion Architecture Diagram" src="https://github.com/user-attachments/assets/65aaae9b-d4b9-4c81-a8bf-67f6ea104dc6" />
