@@ -17,7 +17,6 @@
 - **Data Processing:** ADF Mapping Data Flows
 - **Connectivity:** Self-Hosted Integration Runtime
 - **Monitoring & Alerts:** Azure Logic Apps
-- **Version Control:** GitHub, Azure DevOps
 
 ### Data Sources
 
